@@ -1,56 +1,56 @@
 /* Une façon de faire parmi d'autres... 
 Les dimensions ne sont pas forcément exactement les mêmes que sur l'exercice mais le principe reste le même. */
 
-.div1 {
+#div1 {
   float: left;
-  width: 25vw;
+  width: 75%;
   height: 10vh;
   background-color: #2ecc71;
 }
-.div2 {
-  width: 25vw;
+#div2 {
+  width: 25%;
   height: 10vh;
   float: left;
   background-color: #2980b9;
 }
-.div3 {
-  width: 34vw;
+#div3 {
+  width: 34%;
   height: 20vh;
   background-color: #e74c3c;
   float: left;
 }
-.div4 {
-  width: 33vw;
+#div4 {
+  width: 33%;
   height: 10vh;
   background-color: #e67e22;
   float: left;
 }
-.div5 {
-  width: 33vw;
+#div5 {
+  width: 33%;
   height: 10vh;
   background-color: #95a5a6;
   float: left;
 }
-.div6 {
-  width: 22vw;
+#div6 {
+  width: 22%;
   height: 10vh;
   background-color: #f39c12;
   float: left;
 }
-.div7 {
-  width: 22vw;
+#div7 {
+  width: 22%;
   height: 10vh;
   background-color: #16a085;
   float: left;
 }
-.div8 {
-  width: 22vw;
+#div8 {
+  width: 22%;
   height: 10vh;
   background-color: #d35400;
   float: left;
 }
-.div9 {
-  width: 100vw;
+#div9 {
+  width: 100%;
   height: 20vh;
   background-color: #2c3e50;
   float: left;
